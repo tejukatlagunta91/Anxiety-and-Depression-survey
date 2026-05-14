@@ -63,6 +63,4 @@ The Logistic Regression model achieved the best performance with an accuracy of 
 
 ## License
 For educational purpose only
-- Kaggle Dataset
-- Scikit-learn Documentation
-- WHO Mental Health Reports
+
